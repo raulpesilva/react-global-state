@@ -1,0 +1,22 @@
+{
+  "name": "react-global-state-example",
+  "displayName": "ReactGlobalState Example",
+  "expo": {
+    "name": "react-global-state-example",
+    "slug": "react-global-state-example",
+    "description": "Example app for react-global-state",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
