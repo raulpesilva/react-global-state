@@ -1,6 +1,6 @@
 {
   "name": "@raulpesilva/react-global-state",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "provide global state to aplication",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
