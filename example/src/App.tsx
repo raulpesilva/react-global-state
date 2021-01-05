@@ -40,6 +40,7 @@ export default function App() {
       <View style={styles.container}>
         <Foo />
         <Bar />
+        <Bar />
       </View>
     </GlobalStateProvider>
   );

@@ -5,12 +5,12 @@ Provide global state to reactJS and React Native aplication
 ## Installation
 
 ```sh
-npm install react-global-state
+npm install @raulpesilva/react-global-state
 ```
 or
 
 ```sh
-yarn add react-global-state
+yarn add @raulpesilva/react-global-state
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ yarn add react-global-state
 import * as React from 'react';
 
 import { StyleSheet, View, Text, Button } from 'react-native';
-import useGlobalState, { GlobalStateProvider } from 'react-global-state';
+import useGlobalState, { GlobalStateProvider } from '@raulpesilva/react-global-state';
 
 const Foo: React.FC = () => {
   const [value, setValue] = useGlobalState('value', 0);

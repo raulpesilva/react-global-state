@@ -1,6 +1,6 @@
 {
-  "name": "react-global-state-example",
-  "description": "Example app for react-global-state",
+  "name": "@raulpesilva/react-global-state-example",
+  "description": "Example app for @raulpesilva/react-global-state",
   "version": "0.0.1",
   "private": true,
   "main": "index",
