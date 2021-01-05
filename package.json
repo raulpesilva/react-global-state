@@ -1,6 +1,6 @@
 {
-  "name": "@unicorn-launcher/react-global-state",
-  "version": "0.1.0",
+  "name": "@raulpesilva/react-global-state",
+  "version": "0.1.1",
   "description": "provide global state to aplication",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
