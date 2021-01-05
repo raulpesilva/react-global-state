@@ -1,5 +1,5 @@
 {
-  "name": "react-global-state",
+  "name": "@unicorn-launcher/react-global-state",
   "version": "0.1.0",
   "description": "provide global state to aplication",
   "main": "lib/commonjs/index",
@@ -26,7 +26,7 @@
     "typescript": "tsc --noEmit",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "prepare": "bob build",
-    "release": "dotenv release-it --",
+    "release": "dotenv release-it --dry-run",
     "example": "yarn --cwd example",
     "pods": "cd example && pod-install --quiet",
     "bootstrap": "yarn example && yarn && yarn pods"
