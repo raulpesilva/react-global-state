@@ -33,8 +33,14 @@
   },
   "keywords": [
     "react-native",
+    "react",
     "ios",
-    "android"
+    "android",
+    "web",
+    "react context",
+    "context",
+    "react global state",
+    "global state for react"
   ],
   "repository": "https://github.com/raulpesilva/react-global-state",
   "author": "RaulPeSilva <adraulpesilva@gmail.com> (https://github.com/raulpesilva)",

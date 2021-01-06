@@ -1,6 +1,6 @@
 # react-global-state
 
-Provide global state to reactJS and React Native aplication
+Easy way to provide global state to reactJS and React Native applications
 
 ## Installation
 
